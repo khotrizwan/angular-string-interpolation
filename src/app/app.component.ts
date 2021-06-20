@@ -8,7 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Angular String Interpolation Example';
   count = 0;
-  i = 0;
   constructor() { 
   }
 
